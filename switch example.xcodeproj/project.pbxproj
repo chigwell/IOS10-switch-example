@@ -12,6 +12,7 @@
 		1BF4B7CA1D935DA90034405F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BF4B7C81D935DA90034405F /* Main.storyboard */; };
 		1BF4B7CC1D935DA90034405F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BF4B7CB1D935DA90034405F /* Assets.xcassets */; };
 		1BF4B7CF1D935DA90034405F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BF4B7CD1D935DA90034405F /* LaunchScreen.storyboard */; };
+		1BF4B7D71D942BE80034405F /* ReadMe.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 1BF4B7D61D942BE80034405F /* ReadMe.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1BF4B7CB1D935DA90034405F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1BF4B7CE1D935DA90034405F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1BF4B7D01D935DA90034405F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1BF4B7D61D942BE80034405F /* ReadMe.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = ReadMe.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				1BF4B7C41D935DA90034405F /* AppDelegate.swift */,
 				1BF4B7C61D935DA90034405F /* ViewController.swift */,
 				1BF4B7C81D935DA90034405F /* Main.storyboard */,
+				1BF4B7D61D942BE80034405F /* ReadMe.rtf */,
 				1BF4B7CB1D935DA90034405F /* Assets.xcassets */,
 				1BF4B7CD1D935DA90034405F /* LaunchScreen.storyboard */,
 				1BF4B7D01D935DA90034405F /* Info.plist */,
@@ -126,6 +129,7 @@
 			files = (
 				1BF4B7CF1D935DA90034405F /* LaunchScreen.storyboard in Resources */,
 				1BF4B7CC1D935DA90034405F /* Assets.xcassets in Resources */,
+				1BF4B7D71D942BE80034405F /* ReadMe.rtf in Resources */,
 				1BF4B7CA1D935DA90034405F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
